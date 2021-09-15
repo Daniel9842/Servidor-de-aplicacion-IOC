@@ -16,6 +16,6 @@ al servidor, en el método processRequest se crea la solicitud del servidor y en
 Para la ejecución es necesario iniciar el servidor y en el navegador colocar 127.0.0.1:35000/archivo, para la parte del archivo se encuentran 3 archivos en la 
 carpeta TestHttpServer para probar con dichos archivos.
 
-para ejecutar localmente http://127.0.0.1:35000/escuela.png si se desea cambiar de archivo debe reemplazar escuela.png por un archivo que se encuentre en la carpeta TestHttpServer.
+para ejecutar localmente iniciar el servidor y colocar en el navegador http://127.0.0.1:35000/escuela.png si se desea cambiar de archivo debe reemplazar escuela.png por un archivo que se encuentre en la carpeta TestHttpServer.
 
 [![Heroku](https://www.herokucdn.com/deploy/button.png)](https://arepservidorioc.herokuapp.com/escuela.png)
