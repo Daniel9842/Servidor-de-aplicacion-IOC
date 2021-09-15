@@ -18,4 +18,4 @@ carpeta TestHttpServer para probar con dichos archivos.
 
 para ejecutar localmente http://127.0.0.1:35000/escuela.png si se desea cambiar de archivo debe reemplazar escuela.png por un archivo que se encuentre en la carpeta TestHttpServer.
 
-[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://arepservidorioc.herokuapp.com/index.html)
+[![Heroku](https://www.herokucdn.com/deploy/button.png)](https://arepservidorioc.herokuapp.com/escuela.png)
